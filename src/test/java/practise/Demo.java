@@ -4,6 +4,7 @@ public class Demo
 {
 public static void main(String[] args) 
 {
-	System.out.println("hu");
+	System.out.println("hi");
+	System.err.println(" i commit");
 }
 }
